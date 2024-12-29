@@ -5,7 +5,7 @@ This project focuses on cleaning and preprocessing data to ensure it is ready fo
 
 ## Project Structure
 - `data/`: Contains the raw and cleaned data CSV files.
-- `reports/`: Generated reports and visualizations.
+- `images/`: Generated reports and visualizations.
 
 ## Getting Started
 1. Clone the repository:

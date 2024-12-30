@@ -44,24 +44,14 @@ For any questions or suggestions, please open an issue or contact the project ma
 
 ## Samples of reports
 
-<iframe src="images/plot_001.html" width="600" height="400"></iframe>
-
-<iframe src="images/plot_002.html" width="600" height="400"></iframe>
-
-<iframe src="images/plot_003.html" width="600" height="400"></iframe>
-
-<iframe src="images/plot_004.html" width="600" height="400"></iframe>
-
-<iframe src="images/plot_005.html" width="600" height="400"></iframe>
-
-<iframe src="images/plot_006.html" width="600" height="400"></iframe>
-
-<iframe src="images/plot_007.html" width="600" height="400"></iframe>
-
-<iframe src="images/plot_008.html" width="600" height="400"></iframe>
-
-<iframe src="images/plot_009.html" width="600" height="400"></iframe>
-
-<iframe src="images/plot_010.html" width="600" height="400"></iframe>
-
-<iframe src="images/plot_011.html" width="600" height="400"></iframe>
+[Pic 1](./images/plot_001.html)
+[Pic 2](./images/plot_002.html)
+[Pic 3](./images/plot_003.html)
+[Pic 4](./images/plot_004.html)
+[Pic 5](./images/plot_005.html)
+[Pic 6](./images/plot_006.html)
+[Pic 7](./images/plot_007.html)
+[Pic 8](./images/plot_008.html)
+[Pic 9](./images/plot_009.html)
+[Pic 10](./images/plot_010.html)
+[Pic 11](./images/plot_011.html)

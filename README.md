@@ -26,6 +26,8 @@ Run the data cleaning script:
 ```bash
 jupyter nbconvert --to notebook --execute --inplace Project-1_notebook_template.ipynb
 ```
+You need to get CSV data file from link [dataset](https://drive.google.com/file/d/1tVzXUTGh4rV97tf8G0AwjqDXKrJ2OdWG/view?usp=sharing) and place it to data/ folder, or uncomment and run first cell in jupiiter notebook. 
+
 
 ## Contributing
 1. Fork the repository.
@@ -38,4 +40,28 @@ jupyter nbconvert --to notebook --execute --inplace Project-1_notebook_template.
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or suggestions, please open an issue or contact the project maintainer at stepurin.pavel@gmail.com.
+For any questions or suggestions, please open an issue or contact the project maintainer at stepurin.pavel@gmail.com
+
+## Samples of reports
+
+<iframe src="images/plot_001.html" width="600" height="400"></iframe>
+
+<iframe src="images/plot_002.html" width="600" height="400"></iframe>
+
+<iframe src="images/plot_003.html" width="600" height="400"></iframe>
+
+<iframe src="images/plot_004.html" width="600" height="400"></iframe>
+
+<iframe src="images/plot_005.html" width="600" height="400"></iframe>
+
+<iframe src="images/plot_006.html" width="600" height="400"></iframe>
+
+<iframe src="images/plot_007.html" width="600" height="400"></iframe>
+
+<iframe src="images/plot_008.html" width="600" height="400"></iframe>
+
+<iframe src="images/plot_009.html" width="600" height="400"></iframe>
+
+<iframe src="images/plot_010.html" width="600" height="400"></iframe>
+
+<iframe src="images/plot_011.html" width="600" height="400"></iframe>

@@ -44,7 +44,7 @@ For any questions or suggestions, please open an issue or contact the project ma
 
 ## Samples of reports
 
-[Pic 1](https://st-pavel.github.io/images/plot_001.html)
+![Pic 1](https://st-pavel.github.io/images/plot_001.html)
 [Pic 2](https://st-pavel.github.io/images/plot_002.html)
 [Pic 3](https://st-pavel.github.io/images/plot_003.html)
 [Pic 4](https://st-pavel.github.io/images/plot_004.html)
